@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Machine learning and AI**
 
-- 👨‍💻 All of my projects are available at [https://krushnawork.lovable.app/](https://krushnawork.lovable.app/)
+- 👨‍💻 All of my projects are available at https://adorable-manatee-f9dbf0.netlify.app/
 
 - 💬 Ask me about **react, django and nodejs**
 
