@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shirsath Krushna</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-- 🔭 I’m currently working on **AI based Air Traffic Management System**
+- 🔭 I’m currently working on **AI Projects**
 
 - 🌱 I’m currently learning **FastAPI, Machine learning and AI**
 
