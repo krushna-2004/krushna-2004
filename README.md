@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Machine learning and AI**
 
-- 👨‍💻 All of my projects are available at https://adorable-manatee-f9dbf0.netlify.app/
+- 👨‍💻 All of my projects are available at [https://adorable-manatee-f9dbf0.netlify.app/](https://krushna-shirsath.netlify.app/)
 
 - 💬 Ask me about **react, django and nodejs**
 
